@@ -6,7 +6,7 @@
 
 ## 🌈 About me
 ![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groupguanfang&langs_count=8&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groupguanfang&langs_count=8&theme=gradient)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 A high school student in a county in China,all technologies are self-taught.  
 In addition to technology, I also like Quadratic Element Amination😜
