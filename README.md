@@ -1,7 +1,8 @@
-<!-- 切换语言 -->
-[English]()
+<!--切换语言-->
+
+[English](https://github.com/Groupguanfang)
 |
-[中文](https://github.com)
+[中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md
 
 ## 🌈 About me
 A high school student in a county in China,all technologies are self-taught.  
