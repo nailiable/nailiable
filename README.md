@@ -5,7 +5,7 @@
 [中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md) 
 
 ## 🌈 About me
-![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)
+![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)。
 A high school student in a county in China,all technologies are self-taught.  
 In addition to technology, I also like Quadratic Element Amination😜
 
