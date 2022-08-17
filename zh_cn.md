@@ -10,13 +10,13 @@
 
 除了技术向，我还喜欢二次元😜
 
-## 📲我的技术栈
+## 📲 我的技术栈
 
 * PHP、MySQL，同时我也是WordPress主题/插件开发者
 
 * HTML，CSS，JavaScript，JQuery，Vue2全家桶，此外还学过了WebPack，Vite，Pinia
 
-## 📱联系
+## 📱 联系
 
 ### 闲聊
 
