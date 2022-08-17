@@ -5,6 +5,9 @@
 [中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md)
 
 ## 🌈 关于我
+![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=groupguanfang&langs_count=8&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
 中国一个小县城的高三狗，所有技术都是自学的。
 
