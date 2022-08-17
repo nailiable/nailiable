@@ -11,5 +11,7 @@ A high school student in a county in China,all technologies are self-taught.
 * PHP,MySQL & I also a WordPress Themes or Plugins Developer  
 * HTML,CSS,JavaScript,JQuery,Vue2,Vue Router/VueX and more Vue Department,Such as WebPack,Vite,Pinia
 
-## Have a Chinese BLOG...
-[Open](https://blog.xhhzs.cn)
+## Contact
+### Talk
+[Telegram@GCZ_Zero](http://t.me/GCZ_Zero)
+[My Blog](https://blog.xhhzs.cn)
