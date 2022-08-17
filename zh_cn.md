@@ -1,8 +1,8 @@
 <!--切换语言-->
 
-[英语]（）
+[英语](https://github.com/Groupguanfang)
 |
-[中文]（https://github.com）
+[中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md)
 
 ## 🌈 关于我
 
