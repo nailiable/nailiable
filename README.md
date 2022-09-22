@@ -2,7 +2,7 @@
 
 [English](https://github.com/Groupguanfang)
 |
-[中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md)
+中文
 
 ## 关于我 🌈
 ![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
