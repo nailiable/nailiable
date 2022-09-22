@@ -1,6 +1,6 @@
 <!--切换语言-->
 
-[English](https://github.com/Groupguanfang)
+[English](https://github.com/Groupguanfang/groupguanfang/blob/main/EN_US.md)
 |
 中文
 
