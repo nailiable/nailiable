@@ -1,8 +1,8 @@
 <!--切换语言-->
 
-[English](https://github.com/Groupguanfang)
+English
 |
-[中文](https://github.com/Groupguanfang/groupguanfang/blob/main/zh_cn.md) 
+[中文](https://github.com/Groupguanfang/groupguanfang) 
 
 ## About me 🌈
 ![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
