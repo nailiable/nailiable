@@ -19,4 +19,6 @@ In addition to technology, I also like Quadratic Element Amination😜
 ### Talk
 [Telegram@GCZ_Zero](http://t.me/GCZ_Zero)  
 ### Personal Website
+
+⚠️The blog is moving⚠️
 [My Blog](https://blog.xhhzs.cn)
