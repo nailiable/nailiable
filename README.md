@@ -16,7 +16,7 @@
 
 * PHP、MySQL，同时我也是WordPress主题/插件开发者
 
-* HTML，CSS，JavaScript，JQuery，Vue2、3全家桶，此外还学过了WebPack，Vite，Pinia
+* HTML，CSS，JavaScript，JQuery，Vue2、3全家桶，一些工具链WebPack，Vite，babel...
 
 ## 联系 💬
 
