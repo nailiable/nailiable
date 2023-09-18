@@ -14,9 +14,19 @@
 
 ## 我的技术栈 📲
 
-* PHP、MySQL，同时我也是WordPress主题/插件开发者
+<div align="center">
 
-* HTML，CSS，JavaScript，JQuery，Vue2、3全家桶，一些工具链WebPack，Vite，babel...
+![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
+
+![Technology](https://skillicons.dev/icons?perline=5&i=typescript,javascript,jquery,html,css,md,vue,react,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,sequelize)
+
+![php](https://skillicons.dev/icons?perline=5&i=php,wordpress)
+
+![media](https://skillicons.dev/icons?perline=4&i=ps,pr,ai,an,figma)
+
+![database](https://skillicons.dev/icons?perline=3&i=mysql,mongodb,redis)
+
+</div>
 
 ## 联系 💬
 
