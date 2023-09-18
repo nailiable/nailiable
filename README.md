@@ -26,7 +26,7 @@
 
 ![server](https://skillicons.dev/icons?perline=7&i=linux,bash,nginx,postman,powershell,mysql,mongodb,redis)
 
-![other](https://skillicons.dev/icons?perline=7&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
+![other](https://skillicons.dev/icons?perline=8&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
 
 </div>
 
