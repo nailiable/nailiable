@@ -12,9 +12,7 @@
 
 除了技术向，还是个二次元😜
 
-## 我的技术栈 📲
-
-<div align="center">
+## 技术 📲
 
 ![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
 
@@ -27,8 +25,6 @@
 ![server](https://skillicons.dev/icons?perline=8&i=linux,bash,nginx,postman,powershell,mysql,mongodb,redis)
 
 ![other](https://skillicons.dev/icons?perline=8&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
-
-</div>
 
 ## 联系 💬
 
