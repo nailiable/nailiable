@@ -18,7 +18,7 @@
 
 ![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
 
-![Technology](https://skillicons.dev/icons?perline=7&i=typescript,javascript,nodejs,jquery,html,css,sass,tailwind,md,vue,react,svelte,astro,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,rollupjs,sequelize,bootstrap,coffeescript,deno,electron,express)
+![Technology](https://skillicons.dev/icons?perline=7&i=typescript,javascript,nodejs,jquery,html,css,sass,tailwind,md,vue,react,angular,svelte,astro,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,rollupjs,sequelize,bootstrap,coffeescript,deno,electron,express)
 
 ![php](https://skillicons.dev/icons?perline=5&i=php,wordpress)
 
