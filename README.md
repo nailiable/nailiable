@@ -26,4 +26,4 @@
 
 ### 有空来博客坐坐
 
-[我的博客](https://blog.xhhzs.cn)
+[我的博客](https://blog.naily.cc)
