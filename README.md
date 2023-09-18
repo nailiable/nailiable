@@ -18,13 +18,15 @@
 
 ![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
 
-![Technology](https://skillicons.dev/icons?perline=5&i=typescript,javascript,jquery,html,css,md,vue,react,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,sequelize)
+![Technology](https://skillicons.dev/icons?perline=7&i=typescript,javascript,nodejs,jquery,html,css,sass,tailwind,md,vue,react,svelte,astro,nest,nextjs,nuxtjs,webpack,babel,vite,prisma,rollupjs,sequelize,bootstrap,coffeescript,deno,electron,express)
 
 ![php](https://skillicons.dev/icons?perline=5&i=php,wordpress)
 
-![media](https://skillicons.dev/icons?perline=4&i=ps,pr,ai,an,figma)
+![media](https://skillicons.dev/icons?perline=4&i=ps,pr,ai,figma)
 
-![database](https://skillicons.dev/icons?perline=3&i=mysql,mongodb,redis)
+![server](https://skillicons.dev/icons?perline=7&i=linux,bash,nginx,postman,powershell,mysql,mongodb,redis)
+
+![other](https://skillicons.dev/icons?perline=7&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
 
 </div>
 
