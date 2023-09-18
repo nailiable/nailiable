@@ -10,7 +10,7 @@ English
 A high school student in a county in China,all technologies are self-taught.  
 In addition to technology, I also like Quadratic Element Amination😜
 
-## My technical stack 📲
+## Technologies 📲
 
 ![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
 
