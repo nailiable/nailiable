@@ -1,14 +1,15 @@
-<!--切换语言-->
+![Status](profile-3d-contrib/profile-night-rainbow.svg)  
 
 English
 |
 [中文](https://github.com/Groupguanfang/groupguanfang) 
 
-## About me 🌈
-![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
 <br>
-A high school student in a county in China,all technologies are self-taught.  
-In addition to technology, I also like Quadratic Element Amination😜
+
+## About me 🌈
+A dirty university student in Guangzhou,China. TypeScript's crazier.
+
+`self-taught's technologies` & `amination`。
 
 ## Technologies 📲
 
@@ -25,8 +26,10 @@ In addition to technology, I also like Quadratic Element Amination😜
 ![other](https://skillicons.dev/icons?perline=8&i=replit,cloudflare,codepen,atom,vscode,idea,vim)
 
 ## Contact 💬
-### Talk
-[Telegram@GCZ_Zero](http://t.me/GCZ_Zero)  
-### Personal Website
 
+### Talk
+* QQ: 1203970284
+[Telegram@GCZ_Zero](http://t.me/GCZ_Zero)
+
+### Personal Website
 [My Blog](https://blog.xhhzs.cn)
