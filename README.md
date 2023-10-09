@@ -1,16 +1,13 @@
-<!--切换语言-->
+![Status](profile-3d-contrib/profile-night-rainbow.svg)  
 
 [English](https://github.com/Groupguanfang/groupguanfang/blob/main/EN_US.md)
 |
 中文
-
-## 关于我 🌈
-![Zero's GitHub stats](https://github-readme-stats.vercel.app/api?username=Groupguanfang&show_icons=true&theme=radical)  
 <br>
 
-中国一个小县城的高三狗，所有技术都是自学的。
+广州某垃圾专科狗，TS全栈。
 
-除了技术向，还是个二次元😜
+`技术向` & `二次元`
 
 ## 技术 📲
 
@@ -30,7 +27,8 @@
 
 ### 闲聊
 
-[TG@GCZ_Zero](http://t.me/GCZ_Zero)
+* QQ: 1203970284
+* [TG@GCZ_Zero](http://t.me/GCZ_Zero)
 
 ### 有空来博客坐坐
 
