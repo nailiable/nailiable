@@ -7,9 +7,9 @@ English
 <br>
 
 ## About me 🌈
-A dirty university student in Guangzhou,China. TypeScript's crazier.
+A rubbish university student in Guangzhou,China. A TypeScript's fullstack crazier.
 
-`self-taught's technologies` & `amination`。
+`self-taught's technologies` & love `amination`。
 
 ## Technologies 📲
 
