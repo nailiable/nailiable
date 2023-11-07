@@ -9,7 +9,7 @@
 
 `技术向` & `二次元`
 
-## 技术 📲
+## 技术栈 📲
 
 ![Chain](https://skillicons.dev/icons?perline=5&i=git,github)
 
